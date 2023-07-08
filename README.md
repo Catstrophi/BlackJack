@@ -11,6 +11,7 @@ The code defines a function main_game that is executed when the "Hit" or "Stand"
 The code defines a function update_balance that updates the player's balance based on the bet outcome.
 The code defines a function update_labels that updates the labels displaying the player's and dealer's hands.
 The initial balance is set to 100.
+
 The code creates a tkinter window.
 The bet input, labels for the player's and dealer's hands, and balance label are created and positioned in the window.
 Buttons for starting the game, hitting, standing, and quitting are created and positioned in the window.
